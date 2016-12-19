@@ -11,7 +11,8 @@ body {
 }
 
 .jumbotron{
-  background-color = rgb(6, 54, 132);
+  background-color: rgb(6, 54, 132);
+  color: rgb(6, 54, 132);
   background-size: cover;
   display: flex;
 
