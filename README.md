@@ -1,2 +1,1 @@
-# jberg5.github.io
-Personal website for Jonathan Berg
+Jonathan Berg's Website.
