@@ -13,17 +13,19 @@ body {
 .jumbotron{
   background-color: rgb(6, 54, 132);
   color: rgb(6, 54, 132);
-  background-size: cover;
   display: flex;
 
 }
 
 .container{
   color: rgb(6, 54, 132);
+  align-items: center;
+  display: inline-flex;
 }
 
 .row{
   align-items: center;
+  display: inline-flex;
 }
 
 .icon{
