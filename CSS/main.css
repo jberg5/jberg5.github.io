@@ -18,6 +18,10 @@ body {
 
 }
 
+.container{
+  color: rgb(6, 54, 132);
+}
+
 .row{
   align-items: center;
 }
