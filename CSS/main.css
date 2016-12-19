@@ -21,3 +21,8 @@ body {
 .row{
   align-items: center;
 }
+
+.icon{
+  height: 100px;
+  width: 100px;
+}
