@@ -10,14 +10,13 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
-.back {
-  height: 100%;
-  width: 100%;
+.jumbotron{
+  background-color = rgb(6, 54, 132);
+  background-size: cover;
+  display: flex;
+
 }
 
-.background {
-  display: flex;
-  justify-content: center;
-  height: 100%;
-  width: 100%
+.row{
+  align-items: center;
 }
