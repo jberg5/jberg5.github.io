@@ -4,20 +4,18 @@ body {
 }
 
 .jumbotron{
-  background-color: rgb(6, 54, 132);
   background-image: url(https://github.com/jberg5/jberg5.github.io/blob/master/landscape.jpg?raw=true);
   background-size: auto;
-  color: rgb(0,0,0);
   display: flex;
-  height: auto;
+  height: auto
 
 }
 
 .container{
-  color: rgb(6, 54, 132);
-  align-items: center;
+  color: rgb(255,255,255);
   display: inline-flex;
-  height: auto;
+  height: 100%;
+  padding: 25px;
 }
 
 .row{
