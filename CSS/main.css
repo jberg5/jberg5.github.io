@@ -7,9 +7,9 @@ body {
   background-color: rgb(6, 54, 132);
   background-image: url(https://github.com/jberg5/jberg5.github.io/blob/master/landscape.jpg?raw=true);
   background-size: auto;
-  color: rgb(6, 54, 132);
+  color: rgb(0,0,0);
   display: flex;
-  height: 100%;
+  height: auto;
 
 }
 
@@ -17,6 +17,7 @@ body {
   color: rgb(6, 54, 132);
   align-items: center;
   display: inline-flex;
+  height: auto;
 }
 
 .row{
