@@ -12,6 +12,7 @@ body {
 
 .jumbotron{
   background-color: rgb(6, 54, 132);
+  background-image: url(jberg5.github.io/landscape.jpg);
   color: rgb(6, 54, 132);
   display: flex;
 
