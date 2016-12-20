@@ -31,6 +31,12 @@ body {
   height: 100%
 }
 
+.row-text-center{
+  align-items: center;
+  display: inline-flex;
+  height: 100%
+}
+
 .icon{
   height: 100px;
   width: 100px;
