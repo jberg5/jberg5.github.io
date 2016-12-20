@@ -25,11 +25,3 @@ a {
 a:hover {
   color: rgb(64, 69, 79);
 }
-
-.box {
-  background: blue;
-  opacity: .5;
-  height: 100%;
-  width: 50%;
-  position: left;
-}
