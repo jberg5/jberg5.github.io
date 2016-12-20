@@ -1,37 +1,27 @@
 body {
-  font-family: 'Muli', sans-serif;
-  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 1;
 }
 
 .jumbotron{
-  background-image: url(https://github.com/jberg5/jberg5.github.io/blob/master/landscape.jpg?raw=true);
-  background-size: auto;
-  display: flex;
-  height: auto
+  background-image: url(https://github.com/jberg5/jberg5.github.io/blob/master/fixed%20climb.jpg?raw=true);
+  background-size: cover;
+  min-height: 500px;
 
 }
 
 .container{
   color: rgb(255,255,255);
-  display: inline-flex;
+  display: block;
   height: 100%;
   padding: 25px;
+  text-align: left;
 }
 
-.row{
-  align-items: center;
-  display: inline-flex;
-  height: 100%
+a {
+  color: inherit;
 }
 
-.row-text-center{
-  align-items: center;
-  display: inline-flex;
-  height: 100%
-}
-
-.icon{
-  height: 100px;
-  width: 100px;
-  padding: 10px;
+.lead {
+  padding: 5px;
 }
