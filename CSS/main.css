@@ -12,8 +12,9 @@ body {
     padding-left: 250px;
 }
 
-h1 {
+.col-lg-12 {
   font-size: 18px;
+  padding-top: 60px;
 }
 
 #sidebar-wrapper {
