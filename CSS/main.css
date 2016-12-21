@@ -39,6 +39,7 @@ h1 {
     width: 100%;
     position: absolute;
     padding-top: 65px;
+    color: rgb(255,255,255);
 }
 
 #wrapper.toggled #page-content-wrapper {
