@@ -1,14 +1,19 @@
 body {
     overflow-x: hidden;
     background-image: url(https://github.com/jberg5/jberg5.github.io/blob/master/fixed%20climb.jpg?raw=true);
-    background-size: 130%;
+    background-size: 110%;
     background-repeat: no-repeat;
+    color: rgb(255,255,255);
  }
 
 /* Toggle Styles */
 
 #wrapper.toggled {
     padding-left: 250px;
+}
+
+h1 {
+  font-size: 18px;
 }
 
 #sidebar-wrapper {
@@ -33,7 +38,7 @@ body {
 #page-content-wrapper {
     width: 100%;
     position: absolute;
-    padding: 15px;
+    padding-top: 65px;
 }
 
 #wrapper.toggled #page-content-wrapper {
