@@ -17,6 +17,16 @@
 
  }
 
+ #Footer {
+  height: 100px;
+  background-color: black;
+  padding-left: 10%;
+  padding-top: 15px;
+  text-align: center;
+  color: #e2edf5;
+  font-size: 12px;
+}
+
  ul {
     list-style-type: none;
     margin: 0;
