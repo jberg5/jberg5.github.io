@@ -1,5 +1,5 @@
 #page-content-wrapper {
- padding-top: 80px;
+ padding-top: 100px;
  padding-left: 8%;
  height: 700px;
  background-image: url(https://github.com/jberg5/jberg5.github.io/blob/master/rock%20on-2.jpg?raw=true);
@@ -18,13 +18,17 @@
  }
 
  #Footer {
-  height: 100px;
+
   background-color: black;
   padding-left: 10%;
   padding-top: 15px;
   text-align: center;
   color: #e2edf5;
   font-size: 12px;
+}
+
+#footer-text {
+  padding: 14px;
 }
 
  ul {
